@@ -19,6 +19,7 @@ pip install requests
 pip install discord
 
 ติดตั้งลิงค์
+
 git clone https://github.com/MFTEAM1/MFTEAM
 
 พิม
