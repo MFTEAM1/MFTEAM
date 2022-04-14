@@ -5,8 +5,11 @@
 ให้ติดตามคำสั่งตามนี้
 
 pkg update
+
 pkg upgrade
+
 pkg install git
+
 pkg install python
 pip install --upgrade pip
 pip install requests
